@@ -9,3 +9,4 @@ langchain_community
 python-dotenv
 pypdf
 streamlit
+langchain_chains
